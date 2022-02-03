@@ -1,0 +1,34 @@
+Write a program in Java for below questions:
+1.How do you remove all white spaces from a string in java?
+2.How to find largest number less than a given number and without a given digit?
+Write a java program to find the largest number ‘L’ less than a given number ‘N’ which should not contain a given digit ‘D’. For example, If 145 is the given number and 4 is the given digit, then you should find the largest number less than 145 such that it should not contain 4 in it. 
+In this case, 139 will be the answer.
+3.How to check whether given number is binary or not?
+A binary number is a number which contains only 0 or 1. 
+For example : 101101, 110010110, 10010011 are binary numbers. 
+4.How to separate zeros from non-zeros in an array?
+For example, if {14, 0, 5, 2, 0, 3, 0} is the given array, 
+then moving zeros to end of the array will result {14, 5, 2, 3, 0, 0, 0} and 
+bringing zeros to front will result {0, 0, 0, 14, 5, 2, 3}
+5.Reverse the string with preserving the position of spaces.
+For example, if “I Am Not String” is the given string then the reverse of 
+this string with preserving the position of spaces is “g ni rtS toNmAI”
+6.Write a java program to find roman equivalent of a decimal number. 
+7.Write a java program to find all permutations of a string recursively. 
+For example, all permutations of string “JSP“ are,
+
+JSP
+JPS
+SJP
+SPJ
+PJS
+PSJ
+
+
+8.Fizzbuzz is a fun game . It is simple game in which when your turn comes, 
+you need to say the next number. So here are rules of the game:
+
+If number is divisible by 3, then you need to say Fizz
+If number is divisible by 5, then you need to say Buzz
+If number is divisible by 3 and 5 both, then you need to say FizzBuzz
+Else you just need to say next number

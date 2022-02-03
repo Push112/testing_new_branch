@@ -1,0 +1,111 @@
+=============================
+Python scripting--7 Days
+=============================
+Python Intro
+Python Comments
+Python Variables
+Python Data Types
+Python Numbers
+Python Casting
+Python Strings
+Python Booleans
+Python Operators
+Python Lists
+Python Tuples
+Python Sets
+Python Dictionaries
+Python If...Else
+Python While Loops
+Python For Loops
+Python Functions
+Python Lambda
+Python Arrays
+Python Classes/Objects
+Python Inheritance
+Python Iterators
+Python Scope
+Python Modules
+Python Dates
+Python Math
+Python RegEx
+Python PIP
+Python Try...Except
+Python User Input
+Python String Formatting
+Python File Handling
+Python Read Files
+Python Write/Create Files
+Python Delete Files
+======================================
+ISTQB Testing basics-3 days 
+======================================
+What is Software Testing? – ISTQB Foundation | Software Testing Basics
+Foundation Exam Format And Structure
+Fundamentals of Testing
+1.Typical Objectives of Testing
+2.Testing and Debugging
+3. Why is Testing Necessary?
+4.Error, Defect, and Failure
+5.Defects, Root Cause, and Effects
+6.Seven Testing Principles
+7.Test Activities and Tasks
+Test Completion
+1.The Psychology of Testing
+2.Tester’s and Developer’s Mindsets
+Testing Throughout the SDLC
+1.Test Levels
+2. Component Testing
+3. Integration Testing
+4. System Testing
+Testing Techniques – Factors to Consider | ISTQB
+1.Black Box Testing Techniques
+2.Equivalence Partitioning
+3.Boundary Value Analysis
+4.Decision Table Testing
+Test Management
+1.Risk in Software Testing
+2.Project Risk and Product Risk
+
+========================================
+Basic Networking Protocols/Knowledge-5 days
+========================================
+Basics of Computer Networking
+Goals of Networks
+Types of Network Topology
+Types of area networks – LAN, MAN and WAN
+Introduction of Mobile Ad hoc Network (MANET)
+Types of MANET in Computer Network
+Redundant Link problems in Computer Network
+Digital Subscriber Line (DSL)
+What is Scrambling in Digital Electronics ?
+Difference between Unipolar, Polar and Bipolar Line Coding Schemes
+Manchester Encoding in Computer Network
+Layers of OSI Model
+TCP/IP Model
+Physical layer
+Data Link layer
+Network layer
+Transport layer
+Application layer
+Network Security
+=====================================
+Basic RF/wireless communication-3 days
+=================================
+Bidirectional links for RF Remote Control:
+Protocols for RF Communication:
+Applications of RF Communication
+=========================================
+DLMS Protocol/Architecture-4 days
+=======================================
+1.Companion Specification for Energy Metering (COSEM)
+2.COSEM Object Identification System (OBIS) 
+3.DLMS/COSEM Communications Framework 
+4.Application Layer PDUs 
+=======================================
+Flashing/programming/Debugging - 3 days
+====================================
+Flash Programming
+ECC Corruption
+Variable length encoding
+Configuration
+==================================

@@ -1,0 +1,105 @@
+Questions
+1.Will the following class compile? If not, why?
+public final class Algorithm {
+    public static T max(T x, T y) {
+        return x > y ? x : y;
+    }
+}
+2.What is the following class converted to after type erasure?
+public class Pair<K, V> {
+
+
+    public Pair(K key, V value) {
+        this.key = key;
+        this.value = value;
+    }
+
+    public K getKey(); { return key; }
+    public V getValue(); { return value; }
+
+    public void setKey(K key)     { this.key = key; }
+    public void setValue(V value) { this.value = value; }
+
+    private K key;
+    private V value;
+}
+3.What is the following method converted to after type erasure?
+public static <T extends Comparable<T>>
+    int findFirstGreaterThan(T[] at, T elem) {
+    // . . .
+}
+4.Will the following method compile? If not, why?
+public static void print(List<? extends Number> list) {
+    for (Number n : list)
+        System.out.print(n + " ");
+    System.out.println();
+}
+5.Will the following class compile? If not, why?
+public class Singleton<T> {
+
+
+    public static T getInstance() {
+        if (instance == null)
+            instance = new Singleton<T>();
+
+        return instance;
+    }
+
+    private static T instance = null;
+}
+6.Review the following classes:
+class Shape { /* . . . */ }
+class Circle extends Shape { /* . . . */ }
+class Rectangle extends Shape { /* . . . */ }
+
+class Node<T> { /* . . . */ }
+Will the following code compile? If not, why?
+
+Node<Circle> nc = new Node<>();
+Node<Shape>  ns = nc;
+7.Consider this class:
+class Node<T> implements Comparable<T> {
+    public int compareTo(T obj) { /* . . . */ }
+    // . . .
+}
+Will the following code compile? If not, why?
+
+Node<String> node = new Node<>();
+Comparable<String> comp = node;
+
+Exercises
+1.Write a generic method to count the number of elements in a collection that have a specific property (e.g., odd integers, prime numbers, palindromes).
+2.Write a generic method to exchange the positions of two different elements in an array.
+3.Write a generic method to find the maximal element in the range [begin, end] of a list.
+4.Consider the following classes:
+public class AnimalHouse<E> {
+    private E animal;
+    public void setAnimal(E x) {
+        animal = x;
+    }
+    public E getAnimal() {
+        return animal;
+    }
+}
+
+public class Animal{
+}
+
+public class Cat extends Animal {
+}
+
+public class Dog extends Animal {
+}
+For the following code snippets, identify whether the code:
+->fails to compile,
+->compiles with a warning,
+->generates an error at runtime, or
+->none of the above (compiles and runs without problem.)
+Question 1a. AnimalHouse<Animal> house = new AnimalHouse<Cat>();
+
+Question 1b. AnimalHouse<Cat> house = new AnimalHouse<Animal>();
+
+Question 1c. AnimalHouse<?> house = new AnimalHouse<Cat>();
+             house.setAnimal(new Cat());
+Question 1d. AnimalHouse house = new AnimalHouse();
+             house.setAnimal(new Dog());

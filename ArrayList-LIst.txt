@@ -1,0 +1,10 @@
+1.Java program to add elements in ArrayList and print them in reverse order
+2.Write a Java program to increase the size of an array list.
+3.Write a Java program to append the specified element to the end of a linked list.
+4.Write a Java program to iterate through all elements in a linked list starting at the specified position.
+5.Write a Java program to insert elements into the linked list at the first and last position.
+6.Given an ArrayList, and we have to find/search an element from the list using Java program.
+7.Write a program that creates an array of 10 elements size. Your program should prompt the user to input numbers in array and then display the sum of all array elements.
+8.Write a Java program to find the largest and smallest element of an array.
+9.How do you get the position of last occurrence of a given element in a LinkedList?
+10.How do you find the number of elements present in an ArrayList?

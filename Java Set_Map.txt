@@ -1,0 +1,8 @@
+ 1.Write a program to traverse(or iterate) HashSet?
+2.Given an element write a program to check if element exists in HashSet?
+3.Write a program to add elements to the HashMap given the key and value data type is String?
+4.Write a program to sort HashMap by keys ?
+5.How to synchronize a HashMap in java? 
+6.How do you check the equality of two arrays in java?
+7.How to find duplicate elements in an array using HashSet?
+8.How to count occurrences of each character in a string in java?

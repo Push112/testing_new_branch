@@ -1,0 +1,21 @@
+1.Write a C# Sharp program that takes four numbers as input to calculate and print the average.
+2.Write a C# Sharp program to swap two numbers. 
+3.Write a C# program to create a new string from a given string where the first and last characters will change their positions.
+4.Write a C# program to check two given integers and return true if one is negative and one is positive.
+5.Write a C# program to convert a given string into lowercase.
+
+
+
+============================================================================
+C-Questions
+
+1.Explain the syntax for for loop .
+2.What is a static variable?Write example
+3.Can a program be compiled without main() function?
+4.Explain the use of %i format specifier w.r.t scanf().
+5.Does a break is required by default case in switch statement?
+6.Can variables belonging to different scope have same name? If so show an example.
+7.Name a function which can be used to close the file stream.
+8.Write a program in C to Swap two numbers (without using a temporary variable).
+9.Write a program in C to Finding the nth Fibonacci number .
+10.Write a program in C Program to Multiply Two Floating-Point Numbers.

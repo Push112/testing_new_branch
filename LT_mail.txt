@@ -1,0 +1,25 @@
+1.Write a script to create browser instance based on browser name
+2.Write a script to search for specified option in the listbox
+3.Write a script to print the content of list in sorted order.
+4.Write a script to print all the options.For duplicates add entry only once.
+Hint: Use HashSet
+5.Write generic method in selenium to handle all locators containing dynamic wait and return web element for any locator.
+
+
+
+
+
+sharmasumitv9002@gmail.com , sonal.patil1137@gmail.com , sharmasumitv9002@gmail.com , dattatri8077@gmail.com , mskradhika@gmail.com ,
+rlvignesh45@gmail.com ,anmolkaurkang@gmail.com , devmakode82@gmail.com , vijaychavhan565@gmail.com , mohitpatil095@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
